@@ -1,0 +1,17 @@
+.tile-mount {
+    padding-bottom: 80px;
+}
+.card {
+    height: 300px;
+    width: 200px;
+}
+.card > .img-container {
+    margin-left: 12.5px;
+    margin-top: 12.5px;
+    height: 275px;
+    width: 175px;
+}
+.tile-img {
+    height: 275px;
+    width: 175px;
+}
